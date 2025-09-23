@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.e2d10192.css",
-    "main.js": "/static/js/main.fbdb708a.js",
+    "main.js": "/static/js/main.aff80f7c.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
-    "static/media/CV.pdf": "/static/media/CV.fa7a9224bf6be89f0737.pdf",
+    "static/media/CV.pdf": "/static/media/CV.182980d3e58c92797c49.pdf",
     "static/media/header.jpg": "/static/media/header.f6c5f8d9b525f55db30c.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -21,11 +21,11 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/index.html",
     "main.e2d10192.css.map": "/static/css/main.e2d10192.css.map",
-    "main.fbdb708a.js.map": "/static/js/main.fbdb708a.js.map",
+    "main.aff80f7c.js.map": "/static/js/main.aff80f7c.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2d10192.css",
-    "static/js/main.fbdb708a.js"
+    "static/js/main.aff80f7c.js"
   ]
 }
